@@ -21,6 +21,9 @@ The project focuses on developing an **optimized path generation system** for a 
 
 In simpler terms, it enables users to **teach a robotic arm tasks through physical guidance**—no advanced programming knowledge required. Once trained, the cobot can accurately **replicate repetitive tasks** on its own.
 
+**VIDEO DEMO**:
+https://www.linkedin.com/posts/zgmayordo_robotics-engineeringinnovation-learningfromdemonstration-activity-7323642728729169920-2INo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQjiy8B-MDmhGo80g1QiFHO5M81T-a_SuA
+
 ---
 
 ## 💻 Web Application
